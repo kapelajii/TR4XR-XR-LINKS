@@ -15,6 +15,8 @@
 
 [Shariiing VR -guide HMD users with visual cues in all your VR experiences](https://youtu.be/OdNKtVJmv_I)
 
+[Lumon - työntekijöiden perhdytys VR:n avulla](https://youtu.be/bnPH2JK5Ioo)
+
 ## 3D MODELING
 
 [Nvidia GANverse3D – 2D Photo to a 3D Model with texture at a click of a button](https://youtu.be/r5E4ThTukc4)
@@ -22,8 +24,6 @@
 [JAMK 2017 - 3D-mallintamisen perusteet Blenderillä](https://github.com/JAMK-IT/iim80110-3d-mallintamisen-perusteet)
 
 [AI Generates 3D models from photos](https://youtu.be/dZ_5TPWGPQI)
-
-
 
 
 
@@ -44,6 +44,8 @@
 ## PAPERS
 
 [VAMR -XR technologies for industrial SMEs: The VAMR*s University-Business Cooperation Handbook](https://vam-realities.eu/wp-content/uploads/VAM-Realities_UBC_Handbook.pdf)
+
+[XR bootcamp - Unity vs Unreal - how to decide which engine to use in your next XR project](https://xrbootcamp.com/unity-vs-unreal-engine-for-xr-development/)
 
 ## PROJECTS
 
