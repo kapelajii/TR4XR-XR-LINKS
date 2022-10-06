@@ -28,6 +28,8 @@
 
 [AI Generates 3D models from photos](https://youtu.be/dZ_5TPWGPQI)
 
+[Autodesk Revit - how to export FBX with materials](https://youtu.be/jVpf0ve1QV0)
+
 
 
 ## CAD
@@ -36,9 +38,13 @@
 
 [Visual components-Simplify an imported 3D CAD file](https://youtu.be/SGvTN5H2FVE)
 
+
+
 ## UNITY
 
 ## UNREAL ENGINE
+
+[Unreal Engine - Lumen and Nanite in VR, Impressions of Virtual Production](https://youtu.be/sawt17ZFBZA)
 
 ## PROGRAMS
 
