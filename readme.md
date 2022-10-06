@@ -65,6 +65,14 @@
 
 [Blender 2.8 Wooden Floor Tutorial (Eevee / Cycles Materials)](https://youtu.be/ikNnhaPGjiI)
 
+[Blender workflow to modding models to farming simulator 2019](https://youtu.be/LUf0_tu8JDA)
+
+[Blender tutorial - modding tractor trailer to farming simulator](https://youtu.be/Pa8BsYm3D58)
+
+[Blender turn hi poly mesh to game ready object](https://youtu.be/9kq72GpvsT0)
+
+
+
 
 
 ## CAD
@@ -75,11 +83,21 @@
 
 [Turning large CAD assemblies into real-time 3D visualizations - Unite Copenhagen 2019](https://youtu.be/BNUZLnhCR2Q)
 
+[Autodesk Inventor 2022: Simplify Command to remove features from model like holes and small parts](https://youtu.be/CVNK1WzALhE)
 
+[Autodesk ]()
+
+[Solidworks - Defeature, remove feautres and details from your model](https://www.youtube.com/watch?v=6CEgSuG6DcA&ab_channel=SolidSolutions-ProfessionalDesignSolutions)
+
+[Autodesk Fusion 360 - Remove internals from your desings](https://www.youtube.com/watch?v=GvfBFwsOq5c&ab_channel=AutodeskFusion360)
 
 ## UNITY
 
 [Unity XR interaction toolkit - socket interactor  ](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.0/manual/xr-socket-interactor.html)
+
+[Blender animation to Unity](https://youtu.be/uWexElqDcaA)
+
+
 
 ## UNREAL ENGINE
 
@@ -126,6 +144,8 @@
 [VRMADA - VR toolset for quickly building immersive interactions for VR within Unity](https://www.roadtovr.com/ultimatexr-vr-interaction-development-framework-unity-vrmada/)
 
 [NVIDIA Material Definition Language (MDL) SDK is a set of tools to enable quick integration of physically-based materials into rendering applications.](https://developer.nvidia.com/rendering-technologies/mdl-sdk)
+
+[Real materials vol 0 free matrials to Unity](https://assetstore.unity.com/packages/2d/textures-materials/real-materials-vol-0-free-115597)
 
 
 # USE CASES
