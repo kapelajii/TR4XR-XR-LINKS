@@ -49,7 +49,7 @@
 
 [Mobiili VR/AR - EAKR](https://projektit.seamk.fi/alykkaat-teknologiat/mobiili-vr-ar-pk-teollisuudessa/)
 
-[Kexri.io] - EAKR](https://kexri.io/)
+[Kexri.io - EAKR](https://kexri.io/)
 
 [Vattu – Valmistavan teollisuuden virtuaaliset tuotteet - EAKR](https://www.hamk.fi/projektit/vattu/)
 
