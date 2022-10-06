@@ -1,5 +1,6 @@
 # TR4XR - Collection of XR related stuff
 
+Updated: 06.10.2022
 
 ## AR
 [Babylon.js - WebXR Augmented Reality features](https://doc.babylonjs.com/features/featuresDeepDive/webXR/webXRARFeatures)
@@ -18,6 +19,9 @@
 
 [Needle Engine is a web-based runtime for 3D apps](https://needle.tools/)
 
+[GLTF -Royalty-free specification for the efficient transmission and loading of 3D scenes and models by engines and applications.](https://www.khronos.org/gltf/)
+
+[GLTF ISO standard](https://80.lv/articles/khronos-gltf-2-0-becomes-an-iso-iec-international-standard/)
 
 []()
 []()
@@ -96,6 +100,8 @@
 [Unity XR interaction toolkit - socket interactor  ](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.0/manual/xr-socket-interactor.html)
 
 [Blender animation to Unity](https://youtu.be/uWexElqDcaA)
+
+[Photon Fusion 101 - Photon Fusion network architecture and basics](https://youtu.be/lLSv1memaBA)
 
 
 
