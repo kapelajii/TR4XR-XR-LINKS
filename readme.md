@@ -17,6 +17,14 @@
 
 [Nvidia GANverse3D – 2D Photo to a 3D Model with texture at a click of a button](https://youtu.be/r5E4ThTukc4)
 
+[JAMK 2017 - 3D-mallintamisen perusteet Blenderillä](https://github.com/JAMK-IT/iim80110-3d-mallintamisen-perusteet)
+
+[AI Generates 3D models from photos](https://youtu.be/dZ_5TPWGPQI)
+
+
+
+
+
 ## CAD
 
 [Opinnäytetyö-CAD-tiedostomuotojen vertailu Unreal Engine -pelimoottorilla](https://www.theseus.fi/bitstream/handle/10024/172734/Ahola_Tiina_cad_tiedostomuotojen_vertailu_unrealenginella.pdf?sequence=2&isAllowed=y)
@@ -33,4 +41,18 @@
 
 ## PROJECTS
 
+[VAMR -XR technologies for industrial SMEs: The VAMR*s University-Business Cooperation Handbook](https://vam-realities.eu/wp-content/uploads/VAM-Realities_UBC_Handbook.pdf)
+
+## ASSETS
+
+[78 photorealistic Cars and Vehicles rigged for Blender](https://blendermarket.com/products/transportation)
+
 ## OTHER
+
+[How we film mixed reality videos](https://youtu.be/v2YY-Eq3Fe4)
+
+[LIV- film yourself inside VR-games](https://store.steampowered.com/app/755540/LIV/)
+
+
+
+
