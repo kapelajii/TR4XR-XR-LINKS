@@ -29,6 +29,8 @@
 
 ## PROGRAMS
 
+[KAMK.FI - Clever simulation ladattavat hyötyöpelit](https://www.cleversimulation.com/projects)
+
 ## PROJECTS
 
 ## OTHER
