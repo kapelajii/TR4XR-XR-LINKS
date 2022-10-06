@@ -63,6 +63,8 @@
 
 [Real materials lite URP](https://assetstore.unity.com/packages/2d/textures-materials/real-materials-lite-urp-152926)
 
+[Aweseome unity 3D -A categorized collection of awesome opensource unity3d resources](https://github.com/insthync/awesome-unity3d)
+
 
 ## OTHER
 
