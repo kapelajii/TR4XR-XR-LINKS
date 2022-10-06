@@ -12,7 +12,7 @@
 
 ## CAD
 
-[Opinnäytetyö-CAD-tiedostomuotojen vertailu Unreal Engine -pelimoottorilla(https://www.theseus.fi/bitstream/handle/10024/172734/Ahola_Tiina_cad_tiedostomuotojen_vertailu_unrealenginella.pdf?sequence=2&isAllowed=y)
+[Opinnäytetyö-CAD-tiedostomuotojen vertailu Unreal Engine -pelimoottorilla](https://www.theseus.fi/bitstream/handle/10024/172734/Ahola_Tiina_cad_tiedostomuotojen_vertailu_unrealenginella.pdf?sequence=2&isAllowed=y)
 
 
 ## UNITY
