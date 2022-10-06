@@ -99,7 +99,7 @@ Updated: 06.10.2022
 
 ## UNITY
 
-[Introduction to Unity | 2022 Unity Beginner's Course (https://www.youtube.com/watch?v=VaJseHy_iI4&list=PLS7jk2aVN8G4b-uuf-M0_fhQjL7KEmQwU&ab_channel=Yeahlowflicker)
+[Introduction to Unity | 2022 Unity Beginner's Course ](https://www.youtube.com/watch?v=VaJseHy_iI4&list=PLS7jk2aVN8G4b-uuf-M0_fhQjL7KEmQwU&ab_channel=Yeahlowflicker)
 
 [Unity XR interaction toolkit - socket interactor  ](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.0/manual/xr-socket-interactor.html)
 
