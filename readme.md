@@ -30,6 +30,21 @@
 
 [Autodesk Revit - how to export FBX with materials](https://youtu.be/jVpf0ve1QV0)
 
+[Broowood 3D videotutoriaali, Aitaelementin mallintaminen Blenderillä, OSA 1 ](https://youtu.be/jhj2kgtXZ0Q)
+
+[Broowood 3D videotutoriaali, Aitaelementin mallintaminen Blenderillä, OSA 2](https://youtu.be/tBTwp7DkrrE)
+
+[Juha Keränen - Blender Mallinnus osa](https://youtu.be/TMiXg7sv0Ng)
+
+[Peliobjektin 3D-mallinnus | Blender-tutoriaali](https://youtu.be/L2D_LXuKZgE)
+
+[Learning Blender - A step by step beginner Tutorial for 3D Artists](https://youtu.be/g2U0MiZSV9A)
+
+[How To Export An FBX To Unity From Blender With Textures?](https://www.blenderbasecamp.com/home/how-to-export-an-fbx-to-unity-from-blender-with-textures/)
+
+
+
+
 
 
 ## CAD
@@ -74,7 +89,7 @@
 
 
 
-## ASSETS
+## ASSETS AND FRAMEWORKS
 
 [78 photorealistic Cars and Vehicles rigged for Blender](https://blendermarket.com/products/transportation)
 
@@ -87,6 +102,8 @@
 [Readyplayer.me SDK - custom avatars to Unity](https://docs.readyplayer.me/ready-player-me/integration-guides/unity-sdk/unity-sdk-download)
 
 [VRMADA - VR toolset for quickly building immersive interactions for VR within Unity](https://www.roadtovr.com/ultimatexr-vr-interaction-development-framework-unity-vrmada/)
+
+[NVIDIA Material Definition Language (MDL) SDK is a set of tools to enable quick integration of physically-based materials into rendering applications.](https://developer.nvidia.com/rendering-technologies/mdl-sdk)
 
 
 # USE CASES
