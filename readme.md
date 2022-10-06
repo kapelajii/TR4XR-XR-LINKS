@@ -37,6 +37,8 @@ Updated: 06.10.2022
 
 [Nvida omniverse - industrial metaverse](https://www.nvidia.com/en-us/omniverse/)
 
+[ABB RobotStudio - Teach robots in virtual reality](https://youtu.be/wtD4QcAWcoE)
+
 ## MR
 
 [Dynamics 365 Guide with HoloLens 2 | Mixed Reality Demo](https://youtu.be/sCMjkCkw11I)
