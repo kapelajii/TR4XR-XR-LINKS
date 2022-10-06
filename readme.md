@@ -39,13 +39,30 @@
 
 [KAMK.FI - Clever simulation ladattavat hyötyöpelit](https://www.cleversimulation.com/projects)
 
-## PROJECTS
+## PAPERS
 
 [VAMR -XR technologies for industrial SMEs: The VAMR*s University-Business Cooperation Handbook](https://vam-realities.eu/wp-content/uploads/VAM-Realities_UBC_Handbook.pdf)
+
+## PROJECTS
+
+[VAM-REALITIES- ERASMUS+](https://vam-realities.eu/)
+
+[Mobiili VR/AR - EAKR](https://projektit.seamk.fi/alykkaat-teknologiat/mobiili-vr-ar-pk-teollisuudessa/)
+
+[Kexri.io] - EAKR](https://kexri.io/)
+
+[Vattu – Valmistavan teollisuuden virtuaaliset tuotteet - EAKR](https://www.hamk.fi/projektit/vattu/)
+
+
 
 ## ASSETS
 
 [78 photorealistic Cars and Vehicles rigged for Blender](https://blendermarket.com/products/transportation)
+
+[Auto-hand - vr interaction](https://assetstore.unity.com/packages/tools/game-toolkits/auto-hand-vr-interaction-165323)
+
+[Real materials lite URP](https://assetstore.unity.com/packages/2d/textures-materials/real-materials-lite-urp-152926)
+
 
 ## OTHER
 
