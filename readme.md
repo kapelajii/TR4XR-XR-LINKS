@@ -107,11 +107,11 @@ Updated: 06.10.2022
 
 [Photon Fusion 101 - Photon Fusion network architecture and basics](https://youtu.be/lLSv1memaBA)
 
-[Valem tutorials - How to make a VR game in UNITY in 2022]([https://youtu.be/fM0k2n7u8sc](https://www.youtube.com/watch?v=fM0k2n7u8sc&list=PLpEoiloH-4eP-OKItF8XNJ8y8e1asOJud&ab_channel=ValemTutorials)
+[Valem tutorials - How to make a VR game in UNITY in 2022](https://youtu.be/fM0k2n7u8sc](https://www.youtube.com/watch?v=fM0k2n7u8sc&list=PLpEoiloH-4eP-OKItF8XNJ8y8e1asOJud&ab_channel=ValemTutorials)
 
 [VR with Andrew - XR Toolkit 2.0 Crash Course using Unity 2021](https://youtu.be/5ZBkEYUyBWQ)
 
-[Justin P Barnett -How to use VR Sockets and XR Interaction Toolkit) in Unity 2021.2](https://youtu.be/rRNvq09Itdw)
+[Justin P Barnett -How to use VR Sockets and XR Interaction Toolkit in Unity 2021.2](https://youtu.be/rRNvq09Itdw)
 
 
 ## UNREAL ENGINE
