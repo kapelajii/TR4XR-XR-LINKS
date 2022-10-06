@@ -91,8 +91,6 @@ Updated: 06.10.2022
 
 [Autodesk Inventor 2022: Simplify Command to remove features from model like holes and small parts](https://youtu.be/CVNK1WzALhE)
 
-[Autodesk ]()
-
 [Solidworks - Defeature, remove feautres and details from your model](https://www.youtube.com/watch?v=6CEgSuG6DcA&ab_channel=SolidSolutions-ProfessionalDesignSolutions)
 
 [Autodesk Fusion 360 - Remove internals from your desings](https://www.youtube.com/watch?v=GvfBFwsOq5c&ab_channel=AutodeskFusion360)
@@ -160,7 +158,7 @@ Updated: 06.10.2022
 
 [NVIDIA Material Definition Language (MDL) SDK is a set of tools to enable quick integration of physically-based materials into rendering applications.](https://developer.nvidia.com/rendering-technologies/mdl-sdk)
 
-[Real materials vol 0 free matrials to Unity](https://assetstore.unity.com/packages/2d/textures-materials/real-materials-vol-0-free-115597)
+[Real materials vol 0 - free materials to Unity](https://assetstore.unity.com/packages/2d/textures-materials/real-materials-vol-0-free-115597)
 
 
 # USE CASES
