@@ -7,6 +7,8 @@
 
 [Google model viewer -Easily display interactive 3D models on the web & in AR](https://modelviewer.dev/)
 
+[AR- GLTF material variants](https://www.khronos.org/blog/streamlining-3d-commerce-with-material-variant-support-in-gltf-assets)
+
 ## VR
 
 [Visual components - Visual Components Experience 1.6 VR](https://youtu.be/xVWZfHN0Z4k?t=131)
