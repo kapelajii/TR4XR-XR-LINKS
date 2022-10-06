@@ -1,6 +1,5 @@
 # TR4XR - Collection of XR related links
-<img src="content/tr4xr_yt_logo_v3.png" width="100" height="100">
-![](content/tr4xr_yt_logo_v3.png =250x250)
+<img src="content/tr4xr_yt_logo_v3.png" width="250" height="250">
 ![](content/training4xr-logot-1024x350-v7.png)
 
 Updated: 06.10.2022
