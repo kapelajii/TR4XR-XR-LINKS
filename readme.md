@@ -1,6 +1,5 @@
-# TR4XR - XR related link collection
+# TR4XR - Collection of XR related stuff
 
-[I'm an inline-style link](https://www.google.com)
 
 ## AR
 [Babylon.js - WebXR Augmented Reality features](https://doc.babylonjs.com/features/featuresDeepDive/webXR/webXRARFeatures)
