@@ -15,7 +15,7 @@
 
 [Shariiing VR -guide HMD users with visual cues in all your VR experiences](https://youtu.be/OdNKtVJmv_I)
 
-[Lumon - työntekijöiden perhdytys VR:n avulla](https://youtu.be/bnPH2JK5Ioo)
+
 
 ## 3D MODELING
 
@@ -68,6 +68,17 @@
 [Real materials lite URP](https://assetstore.unity.com/packages/2d/textures-materials/real-materials-lite-urp-152926)
 
 [Aweseome unity 3D -A categorized collection of awesome opensource unity3d resources](https://github.com/insthync/awesome-unity3d)
+
+[Readyplayer.me SDK - custom avatars to Unity](https://docs.readyplayer.me/ready-player-me/integration-guides/unity-sdk/unity-sdk-download)
+
+[VRMADA - VR toolset for quickly building immersive interactions for VR within Unity](https://www.roadtovr.com/ultimatexr-vr-interaction-development-framework-unity-vrmada/)
+
+
+# USE CASES
+
+[Unity - Industrial stories](https://unity.com/pages/industrial-stories)
+
+[Lumon - työntekijöiden perhdytys VR:n avulla](https://youtu.be/bnPH2JK5Ioo)
 
 
 ## OTHER
