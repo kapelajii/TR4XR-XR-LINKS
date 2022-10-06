@@ -35,6 +35,8 @@ Updated: 06.10.2022
 
 [Shariiing VR -guide HMD users with visual cues in all your VR experiences](https://youtu.be/OdNKtVJmv_I)
 
+[Nvida omniverse - industrial metaverse](https://www.nvidia.com/en-us/omniverse/)
+
 ## MR
 
 [Dynamics 365 Guide with HoloLens 2 | Mixed Reality Demo](https://youtu.be/sCMjkCkw11I)
