@@ -47,6 +47,10 @@
 
 [XR bootcamp - Unity vs Unreal - how to decide which engine to use in your next XR project](https://xrbootcamp.com/unity-vs-unreal-engine-for-xr-development/)
 
+[Extended reality technologies in small and medium-sized European industrial companies: level of awareness, diffusion and enablers of adoption](https://www.researchgate.net/publication/361626411_Extended_reality_technologies_in_small_and_medium-sized_European_industrial_companies_level_of_awareness_diffusion_and_enablers_of_adoption)
+
+
+
 ## PROJECTS
 
 [VAM-REALITIES- ERASMUS+](https://vam-realities.eu/)
