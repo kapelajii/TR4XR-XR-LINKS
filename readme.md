@@ -6,7 +6,24 @@
 
 [Google model viewer -Easily display interactive 3D models on the web & in AR](https://modelviewer.dev/)
 
+[AR.js - Web-based AR, location, marker and image based tracking](https://ar-js-org.github.io/AR.js-Docs/)
+
 [AR- GLTF material variants](https://www.khronos.org/blog/streamlining-3d-commerce-with-material-variant-support-in-gltf-assets)
+
+[Apple AR Quick Look](https://developer.apple.com/augmented-reality/quick-look/)
+
+[Add AR to an online shop using WebXR and ThreeJS](https://niklever.com/add-ar-to-an-online-shop-using-webxr-and-threejs/)
+
+[Zappar -The world’s leading augmented reality platform and creative studio](https://www.zappar.com/)
+
+[Needle Engine is a web-based runtime for 3D apps](https://needle.tools/)
+
+
+[]()
+[]()
+[]()
+[]()
+[]()
 
 ## VR
 
@@ -42,8 +59,11 @@
 
 [How To Export An FBX To Unity From Blender With Textures?](https://www.blenderbasecamp.com/home/how-to-export-an-fbx-to-unity-from-blender-with-textures/)
 
+[Retopology in Blender -Beginner Tutorial](https://youtu.be/X2GNyEUvpD4)
 
+[Blender 2.8 basics - crash course playlist](https://www.youtube.com/watch?v=-O52Js1c5D4&list=PL3GeP3YLZn5j31ES1VUMXi7M0U1QvSpoQ&ab_channel=CGCookie)
 
+[Blender 2.8 Wooden Floor Tutorial (Eevee / Cycles Materials)](https://youtu.be/ikNnhaPGjiI)
 
 
 
@@ -52,6 +72,8 @@
 [Opinnäytetyö-CAD-tiedostomuotojen vertailu Unreal Engine -pelimoottorilla](https://www.theseus.fi/bitstream/handle/10024/172734/Ahola_Tiina_cad_tiedostomuotojen_vertailu_unrealenginella.pdf?sequence=2&isAllowed=y)
 
 [Visual components-Simplify an imported 3D CAD file](https://youtu.be/SGvTN5H2FVE)
+
+[Turning large CAD assemblies into real-time 3D visualizations - Unite Copenhagen 2019](https://youtu.be/BNUZLnhCR2Q)
 
 
 
