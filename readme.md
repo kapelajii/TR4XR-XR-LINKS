@@ -3,6 +3,8 @@
 [I'm an inline-style link](https://www.google.com)
 
 ## AR
+[Babylon.js - WebXR Augmented Reality features](https://doc.babylonjs.com/features/featuresDeepDive/webXR/webXRARFeatures)
+[Google <model viewer> -Easily display interactive 3D models on the web & in AR](https://modelviewer.dev/)
 
 ## VR
 
