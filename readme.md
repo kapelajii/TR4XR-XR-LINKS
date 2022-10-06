@@ -15,6 +15,10 @@
 
 [Shariiing VR -guide HMD users with visual cues in all your VR experiences](https://youtu.be/OdNKtVJmv_I)
 
+## MR
+
+[Dynamics 365 Guide with HoloLens 2 | Mixed Reality Demo](https://youtu.be/sCMjkCkw11I)
+
 
 
 ## 3D MODELING
