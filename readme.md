@@ -1,4 +1,4 @@
-# TR4XR - Collection of XR related stuff
+# TR4XR - Collection of XR related links
 
 Updated: 06.10.2022
 
