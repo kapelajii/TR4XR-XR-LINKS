@@ -1,5 +1,8 @@
 # TR4XR - Collection of XR related links
 
+![](content/tr4xr_yt_logo_v3o.png)
+![](content/training4xr-logot-1024x350-v7.png)
+
 Updated: 06.10.2022
 
 ## AR
