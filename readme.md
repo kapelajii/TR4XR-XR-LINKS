@@ -3,7 +3,7 @@
 
 <img src="content/training4xr-logot-1024x350-v7.png" width="500" height="150">
 
-Updated: 06.10.2022
+Updated: 09.10.2022
 
 ## AR
 [Babylon.js - WebXR Augmented Reality features](https://doc.babylonjs.com/features/featuresDeepDive/webXR/webXRARFeatures)
@@ -81,6 +81,8 @@ Updated: 06.10.2022
 [Blender tutorial - modding tractor trailer to farming simulator](https://youtu.be/Pa8BsYm3D58)
 
 [Blender turn hi poly mesh to game ready object](https://youtu.be/9kq72GpvsT0)
+
+[Blender - Getting Started with SNAPPING in Blender! Snapping Tools Tutorial](https://youtu.be/0p06F1LzTjQ)
 
 
 
