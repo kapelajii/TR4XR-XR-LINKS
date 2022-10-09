@@ -82,7 +82,7 @@ Updated: 09.10.2022
 
 [Blender turn hi poly mesh to game ready object](https://youtu.be/9kq72GpvsT0)
 
-[Blender - Getting Started with SNAPPING in Blender! Snapping Tools Tutorial](https://youtu.be/0p06F1LzTjQ)
+[Blender - Getting Started with SNAPPING in Blender](https://youtu.be/0p06F1LzTjQ)
 
 
 
