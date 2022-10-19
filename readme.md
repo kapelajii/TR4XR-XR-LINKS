@@ -86,7 +86,7 @@ Updated: 19.10.2022
 
 [AWESOME BLENDER GITHUB ](https://github.com/agmmnn/awesome-blender)
 
-[CGCOOKIE - Learn Blender 2.8 and beyond - The Basics Tutorial|(http://cgcookie.com/courses/learn-blender-2-8-and-beyond-the-basics-tutorial) 
+[CGCOOKIE - Learn Blender 2.8 and beyond - The Basics Tutorial](http://cgcookie.com/courses/learn-blender-2-8-and-beyond-the-basics-tutorial) 
 
 
 
