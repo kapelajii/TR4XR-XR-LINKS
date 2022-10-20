@@ -3,7 +3,7 @@
 
 <img src="content/training4xr-logot-1024x350-v7.png" width="500" height="150">
 
-Updated: 19.10.2022
+Updated: 20.10.2022
 
 ## AR
 [Babylon.js - WebXR Augmented Reality features](https://doc.babylonjs.com/features/featuresDeepDive/webXR/webXRARFeatures)
@@ -87,6 +87,8 @@ Updated: 19.10.2022
 [AWESOME BLENDER GITHUB ](https://github.com/agmmnn/awesome-blender)
 
 [CGCOOKIE - Learn Blender 2.8 and beyond - The Basics Tutorial](http://cgcookie.com/courses/learn-blender-2-8-and-beyond-the-basics-tutorial) 
+
+[Brandon's Drawings -  50 BLENDER TIPS](https://youtu.be/4YDf_ctubbI)
 
 
 
