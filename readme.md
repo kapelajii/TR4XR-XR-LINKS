@@ -90,6 +90,8 @@ Updated: 20.10.2022
 
 [Brandon's Drawings -  50 BLENDER TIPS](https://youtu.be/4YDf_ctubbI)
 
+[3D Tinkerer - What Are Normals? 3D Fundamentals Blender 2.8](https://youtu.be/lmMD9fV98Co)
+
 
 
 
