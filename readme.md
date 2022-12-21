@@ -3,7 +3,7 @@
 
 <img src="content/training4xr-logot-1024x350-v7.png" width="500" height="150">
 
-Updated: 20.10.2022
+Updated: 21.12.2022
 
 ## AR
 [Babylon.js - WebXR Augmented Reality features](https://doc.babylonjs.com/features/featuresDeepDive/webXR/webXRARFeatures)
@@ -94,8 +94,11 @@ Updated: 20.10.2022
 
 [Damien Mathew - Blender modeling videos automotive](https://www.youtube.com/c/DamianMathew/videos)
 
+## 3D Optimization
 
+[My AR Studio - How to optimize 3D models in Blender ](https://youtu.be/q0lunseTIvU)
 
+[13Stewartc- How to Optimize a Model in Blender ] (https://youtu.be/9h1b7wjY4t8)
 
 
 ## CAD
