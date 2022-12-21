@@ -98,7 +98,7 @@ Updated: 21.12.2022
 
 [My AR Studio - How to optimize 3D models in Blender ](https://youtu.be/q0lunseTIvU)
 
-[13Stewartc- How to Optimize a Model in Blender ] (https://youtu.be/9h1b7wjY4t8)
+[13Stewartc- How to Optimize a Model in Blender ](https://youtu.be/9h1b7wjY4t8)
 
 
 ## CAD
