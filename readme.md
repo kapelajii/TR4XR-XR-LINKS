@@ -115,6 +115,13 @@ Updated: 21.12.2022
 
 [Autodesk Fusion 360 - Remove internals from your desings](https://www.youtube.com/watch?v=GvfBFwsOq5c&ab_channel=AutodeskFusion360)
 
+[Overview of preparing 3D models for Dynamics 365 Guides or for mixed-reality](https://learn.microsoft.com/en-us/dynamics365/mixed-reality/guides/3d-content-guidelines/)
+
+[Prepare Autodesk Inventor 3D models for use in Dynamics 365 Guides and for mixed-reality](https://learn.microsoft.com/en-us/dynamics365/mixed-reality/guides/3d-content-guidelines/inventor)
+
+[Use Dassault Systèmes SOLIDWORKS to prepare 3D models for use in Dynamics 365 Guides and in mixed-reality ](https://learn.microsoft.com/en-us/dynamics365/mixed-reality/guides/3d-content-guidelines/solidworks)
+
+
 ## UNITY
 
 [Introduction to Unity | 2022 Unity Beginner's Course ](https://www.youtube.com/watch?v=VaJseHy_iI4&list=PLS7jk2aVN8G4b-uuf-M0_fhQjL7KEmQwU&ab_channel=Yeahlowflicker)
