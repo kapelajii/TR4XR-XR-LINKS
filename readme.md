@@ -3,7 +3,7 @@
 
 <img src="content/training4xr-logot-1024x350-v7.png" width="500" height="150">
 
-Updated: 21.12.2022
+Updated: 05.01.2023
 
 ## AR
 [Babylon.js - WebXR Augmented Reality features](https://doc.babylonjs.com/features/featuresDeepDive/webXR/webXRARFeatures)
