@@ -3,7 +3,7 @@
 
 <img src="content/training4xr-logot-1024x350-v7.png" width="500" height="150">
 
-Updated: 05.01.2023
+Updated: 09.03.2023
 
 ## AR
 [Babylon.js - WebXR Augmented Reality features](https://doc.babylonjs.com/features/featuresDeepDive/webXR/webXRARFeatures)
@@ -137,6 +137,10 @@ Updated: 05.01.2023
 [VR with Andrew - XR Toolkit 2.0 Crash Course using Unity 2021](https://youtu.be/5ZBkEYUyBWQ)
 
 [Justin P Barnett -How to use VR Sockets and XR Interaction Toolkit in Unity 2021.2](https://youtu.be/rRNvq09Itdw)
+
+[Unity XR HANDS](https://docs.unity3d.com/Packages/com.unity.xr.hands@1.1/manual/index.html)
+
+[VR with Andrew -XR Toolkit 2.3 - New Features & Updates](https://youtu.be/2AW5KZZLM8Q)
 
 
 ## UNREAL ENGINE
