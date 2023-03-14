@@ -3,7 +3,7 @@
 
 <img src="content/training4xr-logot-1024x350-v7.png" width="500" height="150">
 
-Updated: 09.03.2023
+Updated: 14.03.2023
 
 ## AR
 [Babylon.js - WebXR Augmented Reality features](https://doc.babylonjs.com/features/featuresDeepDive/webXR/webXRARFeatures)
@@ -141,6 +141,11 @@ Updated: 09.03.2023
 [Unity XR HANDS](https://docs.unity3d.com/Packages/com.unity.xr.hands@1.1/manual/index.html)
 
 [VR with Andrew -XR Toolkit 2.3 - New Features & Updates](https://youtu.be/2AW5KZZLM8Q)
+
+[GITHUB - Unity project style guide](https://github.com/justinwasilenko/Unity-Style-Guide)
+
+[Unity version control project organization best practices ebook](https://resources.unity.com/games/version-control-project-organization-best-practices-ebook)
+
 
 
 ## UNREAL ENGINE
