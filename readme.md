@@ -146,6 +146,8 @@ Updated: 14.03.2023
 
 [Unity version control project organization best practices ebook](https://resources.unity.com/games/version-control-project-organization-best-practices-ebook)
 
+[XR bootcamp - Unity VR tutorial for beginners](https://xrbootcamp.com/unity-vr-tutorial-for-beginners/)
+
 
 
 ## UNREAL ENGINE
