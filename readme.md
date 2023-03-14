@@ -138,8 +138,6 @@ Updated: 14.03.2023
 
 [Justin P Barnett -How to use VR Sockets and XR Interaction Toolkit in Unity 2021.2](https://youtu.be/rRNvq09Itdw)
 
-[Unity XR HANDS](https://docs.unity3d.com/Packages/com.unity.xr.hands@1.1/manual/index.html)
-
 [VR with Andrew -XR Toolkit 2.3 - New Features & Updates](https://youtu.be/2AW5KZZLM8Q)
 
 [GITHUB - Unity project style guide](https://github.com/justinwasilenko/Unity-Style-Guide)
@@ -148,7 +146,13 @@ Updated: 14.03.2023
 
 [XR bootcamp - Unity VR tutorial for beginners](https://xrbootcamp.com/unity-vr-tutorial-for-beginners/)
 
+#### PACKAGES AND TOOLKITS
 
+[XR Interaction Toolkit Examples - Version 2.3.0](https://github.com/Unity-Technologies/XR-Interaction-Toolkit-Examples) 
+
+[Unity XR HANDS](https://docs.unity3d.com/Packages/com.unity.xr.hands@1.1/manual/index.html)
+
+[OPEN XRI SAMPLES - UNITY HANDS AND INTERACTION TOOLKIT 2.3.0](https://github.com/provencher/OpenXR_XRI_Samples-NoLFS-)
 
 ## UNREAL ENGINE
 
